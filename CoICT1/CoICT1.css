@@ -87,34 +87,44 @@ ul {
 }
 
  .workshop {
-     background-image: url(learning.png);
-     color: white;
+     background-image: url('learning.png');
+     background-repeat: no-repeat;
+     background-attachment: local;
+     background-size: cover;
+     color: black;
      display: inline-flex;
 }
 #img4 {
-    width: 1000px;
+    width: 900px;
     height: 200px;
 }
 
 .venue {
-    background-image: url(learning.png);
-    color: white;
+    background-image: url('learning.png');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    color: black;
     display: inline-flex;
 }
 #img5 {
-    width: 1000px;
+    width: 900px;
     height: 200px;
 }
 
 .onlinecourse {
-    background-image: url(learning.png);
-    color: white;
+    background-image: url('learning.png');
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    color: black;
     display: inline-flex;
 }
 #img6 {
-    width: 1000px;
+    width: 900px;
     height: 200px;
 }
+
 
 .contactus {
     text-align: center;
